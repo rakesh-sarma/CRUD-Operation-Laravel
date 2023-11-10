@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>axios crud</title>
+    <meta name="viewport" content="addwidth=device-width, initial-scale=1">
+    <title>Crud</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
   </head>
   <body>
-    <h1 class="bg-dark text-white text-center p-5 ">Axios crud operation</h1>
+    <h1 class="bg-dark text-white text-center p-5 ">Crud Operation</h1>
 
     <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary p-2 m-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
